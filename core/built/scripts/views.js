@@ -1,4 +1,4 @@
-/*global window, document, setTimeout, Ghost, $, _, Backbone, JST, shortcut */
+    /*global window, document, setTimeout, Ghost, $, _, Backbone, JST, shortcut */
 (function () {
     "use strict";
 
